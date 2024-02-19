@@ -9,6 +9,7 @@ vim.o["termguicolors"] = true
 local base00 = "#000000"
 local base06 = "#ffffff"
 local base09 = "#cc241d"
+
 local oxocarbon = (
 	(
 		(vim.o.background == "dark")
